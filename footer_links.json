@@ -1,16 +1,46 @@
 [
   {
-    "title": "GRX Chain",
-    "links": [
-      { "text": "Docs", "url": "https://docs.grxchain.io/" },
-      { "text": "Staking", "url": "https://staking.grxchain.io/" },
-      { "text": "Dex", "url": "https://grxswap.io/" },
-      { "text": "GitHub", "url": "https://github.com/GroveXchange" },
-      { "text": "Proposal", "url": "https://proposal.grxchain.io/" }
-    ]
+    "title": "",
+    "links": []
   },
   {
-    "title": "", 
-    "links": []
-  }
-]
+    "title": "GRX Chain",
+    "links": [
+      {
+        "text": "Docs",
+        "url": "https://docs.grxchain.io/",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/docs-light.svg",
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/docs-dark.svg"
+        ]
+      },
+      {
+        "text": "Staking",
+        "url": "https://staking.grxchain.io/",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/staking-light.svg",
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/staking-dark.svg"
+        ]
+      },
+      {
+        "text": "Dex",
+        "url": "https://grxswap.io/",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/dex-light.svg",
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/dex-dark.svg"
+        ]
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/GroveXchange",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/github-light.svg",
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/github-dark.svg"
+        ]
+      },
+      {
+        "text": "Proposal",
+        "url": "https://proposal.grxchain.io/",
+        "iconUrl": [
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/proposal-light.svg",
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/proposal-dark.svg
