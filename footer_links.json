@@ -43,4 +43,9 @@
         "url": "https://proposal.grxchain.io/",
         "iconUrl": [
           "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/proposal-light.svg",
-          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/proposal-dark.svg
+          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/proposal-dark.svg"
+        ]
+      }
+    ]
+  }
+]
