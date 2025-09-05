@@ -1,43 +1,16 @@
 [
   {
     "title": "GRX Chain",
-    "description": "GRX Chain Explorer enables you to track transactions, addresses, and other activities occurring on the GRX Chain.",
     "links": [
-      {
-        "text": "Docs",
-        "url": "https://docs.grxchain.io/",
-        "iconUrl": [
-          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/link.svg"
-        ]
-      },
-      {
-        "text": "Staking",
-        "url": "https://staking.grxchain.io/",
-        "iconUrl": [
-          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/link.svg"
-        ]
-      },
-      {
-        "text": "DEX",
-        "url": "https://grxswap.io/",
-        "iconUrl": [
-          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/link.svg"
-        ]
-      },
-      {
-        "text": "GitHub",
-        "url": "https://github.com/GroveXchange",
-        "iconUrl": [
-          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/link.svg"
-        ]
-      },
-      {
-        "text": "Proposal",
-        "url": "https://proposal.grxchain.io/",
-        "iconUrl": [
-          "https://raw.githubusercontent.com/GroveXchange/explorer-meta-config/main/icons/link.svg"
-        ]
-      }
+      { "text": "Docs", "url": "https://docs.grxchain.io/" },
+      { "text": "Staking", "url": "https://staking.grxchain.io/" },
+      { "text": "Dex", "url": "https://grxswap.io/" },
+      { "text": "GitHub", "url": "https://github.com/GroveXchange" },
+      { "text": "Proposal", "url": "https://proposal.grxchain.io/" }
     ]
+  },
+  {
+    "title": "", 
+    "links": []
   }
 ]
